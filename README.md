@@ -1,10 +1,14 @@
 # Welcome!  
 
-**MPhil Data Intensive Science** | University of Cambridge  
+**PhD Physics Canditate | Kavli Institute for Comsomology | Cavendish Astrophysics, University of Cambridge**
 
-- Specialising in machine learning, Bayesian inference, and high-performance computing for large-scale astronomical data analysis.  
-- Focused on developing scalable data pipelines for the Exascale Era of Astronomy.   
-
+- Specialising in machine learning, Bayesian inference, and high-performance computing for large-scale astronomical data analysis  
+- Developing scalable data pipelines for the Exascale Era of Radio Astronomy  
+- Focusing on precision measurements of the redshifted 21-cm emission line  
+  
+- **Previously:**
+  - University of Cambridge, MPhil In Data Intensive Science
+  - Durham University, BSc Physics
 ---
-
 📧 Contact me at: [Email](mailto:jacobtutt@icloud.com)  
+🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/jacob-tutt-8a1b62256/)
