@@ -12,6 +12,6 @@
 ---
 📧 Contact me at: [Email](mailto:jacobtutt@icloud.com)  
 
-🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/jacob-tutt-8a1b62256/)
+🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/jacobltutt/)
 
 🌐 Visit my website: [Here](https://jacobtutt.github.io)
