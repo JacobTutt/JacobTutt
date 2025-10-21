@@ -1,6 +1,6 @@
 # Welcome!  
 
-**Incoming PhD Physics Canditate | Kavli Institute for Cosmology | Cavendish Astrophysics, University of Cambridge**
+**PhD Astrophysics Canditate | Kavli Institute for Cosmology | Cavendish Astrophysics, University of Cambridge**
 
 - Specialising in machine learning, Bayesian inference, and high-performance computing for large-scale astronomical data analysis  
 - Developing scalable data pipelines for the Exascale Era of Radio Astronomy  
