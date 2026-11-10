@@ -1,10 +1,10 @@
 # Welcome!  
 
-**PhD Astrophysics Canditate | Kavli Institute for Cosmology | Cavendish Astrophysics, University of Cambridge**
+**PhD Candidate in Astrophysics | Kavli Institute for Cosmology | Cavendish Laboratory, University of Cambridge**
 
-- Specialising in machine learning, Bayesian inference, and high-performance computing for large-scale astronomical data analysis  
-- Developing scalable data pipelines for the Exascale Era of Radio Astronomy  
-- Focusing on precision measurements of the redshifted 21-cm emission line  
+- Scaling scientific workflows across disciplines with probabilistic machine learning and distributed, hardware-accelerated computing
+- Building physically motivated, differentiable generative models and developing scalable Bayesian methods to solve the resulting inverse problems
+- Applying these methods to the statistical detection and characterisation of the cosmological 21-cm signal
   
 - **Previously:**
   - University of Cambridge, MPhil In Data Intensive Science
