@@ -1,6 +1,6 @@
 # Welcome!  
 
-**PhD Candidate in Astrophysics | Kavli Institute for Cosmology | Cavendish Laboratory, University of Cambridge**
+**AI4Science PhD Candidate | Kavli Institute for Cosmology | Cavendish Laboratory, University of Cambridge**
 
 - Scaling scientific workflows in physics with probabilistic machine learning and distributed, hardware-accelerated computing
 - Developing differentiable generative models and scalable Bayesian inference methods to solve the resulting inverse problems
