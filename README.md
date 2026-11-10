@@ -2,8 +2,8 @@
 
 **PhD Candidate in Astrophysics | Kavli Institute for Cosmology | Cavendish Laboratory, University of Cambridge**
 
-- Scaling scientific workflows across disciplines with probabilistic machine learning and distributed, hardware-accelerated computing
-- Building physically motivated, differentiable generative models and developing scalable Bayesian methods to solve the resulting inverse problems
+- Scaling scientific workflows in physics with probabilistic machine learning and distributed, hardware-accelerated computing
+- Developing differentiable generative models and scalable Bayesian inference methods to solve the resulting inverse problems
 - Applying these methods to the statistical detection and characterisation of the cosmological 21-cm signal
   
 - **Previously:**
