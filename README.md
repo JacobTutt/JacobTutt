@@ -4,7 +4,7 @@
 
 - Scaling scientific workflows in physics through computational statistics, machine learning and distributed computing
 - Developing differentiable generative models and scalable Bayesian inference methods
-- Applying these methods to the statistical detection and characterisation of the cosmological 21-cm signal
+- Applying these methods to the detection and characterisation of the cosmological 21-cm signal
   
 - **Previously:**
   - University of Cambridge, MPhil In Data Intensive Science
