@@ -2,7 +2,7 @@
 
 **AI4Science PhD Candidate | Kavli Institute for Cosmology | Cavendish Laboratory, University of Cambridge**
 
-- Scaling scientific workflows in physics with machine learning and distributed, hardware-accelerated computing
+- Scaling scientific workflows in physics through computational statistics, machine learning and distributed computing
 - Developing differentiable generative models and scalable Bayesian inference methods
 - Applying these methods to the statistical detection and characterisation of the cosmological 21-cm signal
   
